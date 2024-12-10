@@ -1,6 +1,8 @@
 # rezept
 Rezept
 
+Klassische Kürbissuppe mit Hokkaido Rezept
+
 Butter in einem Topf schmelzen. Zwiebel und Knoblauch darin glasig dünsten. Kürbis zufügen und kurz mitdünsten. Mit Brühe
 
 
