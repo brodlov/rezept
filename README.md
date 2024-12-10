@@ -1,5 +1,30 @@
 # rezept
 Rezept
+
+Kürbissuppe mit Ingwer und Kokosmilch
+Kürbis, Möhren, Ingwer und Zwiebel schälen und würfeln, in der Butter andünsten. Mit der Brühe aufgießen und in etwa 15 - 20 Minuten weich kochen. Dann sehr fein pürieren, eventuell durch ein Sieb streichen. Die Kokosmilch unterrühren, mit Salz, Pfeffer, Sojasauce und Zitronensaft abschmecken und noch mal erwärmen. Mit Korianderblättchen garniert servieren.
+
+Eine schnelle, leicht exotische Suppe, schön im Menü. Ich benutze für diese Suppe immer einen Hokkaido, den muss man nicht schälen. In Thailand isst man Kürbissuppe mit kleinen Garnelen als Einlage.
+
+Arbeitszeit	ca. 30 Minuten
+Koch-/Backzeit	ca. 20 Minuten
+Gesamtzeit	ca. 50 Minuten
+Schwierigkeitsgrad	normal
+Kcal p. P.	ca. 521
+
+Zutaten für 6 Portionen:
+800 g	Hokkaidokürbis(se), geputzt gewogen
+600 g	Möhre(n), geschält gewogen
+1 Stück(e)	Ingwer, ca. 5 cm lang
+1	Zwiebel(n)
+2 EL	Butter
+1 Liter	Gemüsebrühe
+500 ml	Kokosmilch
+Salz und Pfeffer
+Sojasauce
+1	Zitrone(n), Saft davon
+Koriandergrün zum Garnieren
+
 <ul>
 <li><a href='https://ooodlekadoodle.blogspot.com/2024/10/skartoffelstampf-mit-gerstetem-rosenkohl.html' target='_blank'>skartoffelstampf mit gerstetem rosenkohl</a></li>
 <li><a href='https://ooodlekadoodle.blogspot.com/2024/11/tortellini-suppe.html' target='_blank'>tortellini suppe</a></li>
